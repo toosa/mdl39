@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Trending course]]></name>
+<summary><![CDATA[<p>The course more people accessing to on your LMS.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxNToiVHJlbmRpbmcrY291cnNlIjtzOjQ6InR5cGUiO3M6MTA6InN0YXRpc3RpY3MiO3M6ODoicXVlcnlzcWwiO3M6Mzk0OiJTRUxFQ1QrdGMuQ291cnNlK0ZST00rJTI4U0VMRUNUK2MuaWQrYXMrY2lkJTJDK2MuZnVsbG5hbWUrQVMrQ291cnNlJTJDK1NVTSUyOGx0cy50aW1lc3BlbnQlMjkrYXMrVGltZXNwZW50KyUwRCUwQUZST00rJTYwcHJlZml4X2Jsb2NrX2xzX2NvdXJzZXRpbWVzdGF0cyU2MCtsdHMrJTBEJTBBSk9JTislNjBwcmVmaXhfY291cnNlJTYwK2MrT04rYy5pZCslM0QrbHRzLmNvdXJzZWlkKyUwRCUwQVdIRVJFK2x0cy5jb3Vyc2VpZCslM0UrMStBTkQrbHRzLnRpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSUwRCUwQUdST1VQK0JZK2x0cy5jb3Vyc2VpZCtPUkRFUitCWStUaW1lc3BlbnQrREVTQytMSU1JVCsxJTI5K3RjIjtzOjc6InN1bW1hcnkiO2E6Mjp7czo0OiJ0ZXh0IjtzOjA6IiI7czo2OiJmb3JtYXQiO3M6MToiMSI7fXM6NjoiZ2xvYmFsIjtzOjE6IjEiO3M6MjoiaWQiO2k6OTQ7czo4OiJjb3Vyc2VpZCI7aToxO3M6MzU6Im1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjtpOjA7czoxMjoic3VibWl0YnV0dG9uIjtzOjQ6Ik5leHQiO3M6MTI6ImRpc2FibGV0YWJsZSI7aTowO319fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Timespent]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1581072894]]></timecreated>
+<timemodified><![CDATA[1581072894]]></timemodified>
+<title><![CDATA[Trending Course]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[816082233]]></logo>
+<tilescolourpicker><![CDATA[0294A5]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Timespent]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-first]]></region>
+<weight><![CDATA[9]]></weight>
+</position></report>

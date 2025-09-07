@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051726"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Time spent on page resource]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[pageresourcetimespent]]></type>
+<components><![CDATA[YTo3OntpOjA7YjowO3M6NzoiY29sdW1ucyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjQ6e2k6MDthOjY6e3M6MjoiaWQiO3M6MTU6IlNCeGpqSGxZR1pPU25LUSI7czoxMDoicGx1Z2lubmFtZSI7czoyODoicGFnZXJlc291cmNldGltZXNwZW50Y29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6MTQ0OiIlMjUyNTI1MjUyNTI1MjUyNTI1MjUyNTI1MjU1QiUyNTI1MjUyNTI1MjUyNTI1MjUyNTI1MjUyNTVCcGFnZXJlc291cmNldGltZXNwZW50Y29sdW1ucyUyNTI1MjUyNTI1MjUyNTI1MjUyNTI1MjUyNTVEJTI1MjUyNTI1MjUyNTI1MjUyNTI1MjUyNTI1NUQiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6NDoiUGFnZSI7czo2OiJjb2x1bW4iO3M6NDoibmFtZSI7czo3OiJoZWFkaW5nIjtzOjI4OiJwYWdlcmVzb3VyY2V0aW1lc3BlbnRjb2x1bW5zIjtzOjU6ImFsaWduIjtzOjQ6ImxlZnQiO319aToxO2E6Njp7czoyOiJpZCI7czoxNToiT29vRnp5Y1dFd3ozVDE1IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjEzOiJhY3Rpdml0eWZpZWxkIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoxMzoiYWN0aXZpdHlmaWVsZCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6NjoiY29sdW1uIjtzOjY6ImNvdXJzZSI7czo5OiJjb2x1bW5hbWUiO3M6NjoiQ291cnNlIjtzOjU6ImFsaWduIjtzOjQ6ImxlZnQiO3M6NDoic2l6ZSI7czowOiIiO3M6NDoid3JhcCI7czowOiIiO319aToyO2E6Njp7czoyOiJpZCI7czoxNToiRkNXemI4dE1GQWpHd290IjtzOjEwOiJwbHVnaW5uYW1lIjtzOjEzOiJhY3Rpdml0eWZpZWxkIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czoxMzoiYWN0aXZpdHlmaWVsZCI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo0OiJ0eXBlIjtzOjE1OiJzZWxlY3RlZGNvbHVtbnMiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6NjoiY29sdW1uIjtzOjY6Im1vZHVsZSI7czo5OiJjb2x1bW5hbWUiO3M6MTM6IkFjdGl2aXR5K3R5cGUiO3M6NToiYWxpZ24iO3M6NjoiY2VudGVyIjtzOjQ6InNpemUiO3M6MDoiIjtzOjQ6IndyYXAiO3M6MDoiIjt9fWk6MzthOjY6e3M6MjoiaWQiO3M6MTU6Ijc3UHRZbXZnRzdQeENWaCI7czoxMDoicGx1Z2lubmFtZSI7czoyODoicGFnZXJlc291cmNldGltZXNwZW50Y29sdW1ucyI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6NzM6IlBBR0UlMjUyNTI1MjUyNTI1MkJSZXNvdXJjZSUyNTI1MjUyNTI1MjUyQlRpbWVTcGVudCUyNTI1MjUyNTI1MjUyQkNvbHVtbnMiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NDoidHlwZSI7czoxNToic2VsZWN0ZWRjb2x1bW5zIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjU6InZhbHVlIjtiOjE7czo5OiJjb2x1bW5hbWUiO3M6MTU6IlRvdGFsK3RpbWVzcGVudCI7czo2OiJjb2x1bW4iO3M6MTQ6InRvdGFsdGltZXNwZW50IjtzOjc6ImhlYWRpbmciO3M6Mjg6InBhZ2VyZXNvdXJjZXRpbWVzcGVudGNvbHVtbnMiO3M6NToiYWxpZ24iO3M6NDoibGVmdCI7fX19fXM6NzoiZmlsdGVycyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6IkI0WGVIbDRnOFJZajNnUiI7czoxMDoicGx1Z2lubmFtZSI7czo3OiJjb3Vyc2VzIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo3OiJDb3Vyc2VzIjtzOjc6InN1bW1hcnkiO3M6MDoiIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjQ6Im5hbWUiO3M6NzoiQ291cnNlcyI7czo0OiJ0eXBlIjtzOjc6ImZpbHRlcnMiO3M6NToidmFsdWUiO2I6MTt9fX19czoxMjoiY2FsY3VsYXRpb25zIjthOjE6e3M6ODoiZWxlbWVudHMiO047fXM6ODoib3JkZXJpbmciO2E6MTp7czo4OiJlbGVtZW50cyI7Tjt9czo5OiJjdXN0b21zcWwiO2E6MTp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjE6e3M6ODoicXVlcnlzcWwiO3M6MDoiIjt9fXM6MTE6InBlcm1pc3Npb25zIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjozOntzOjEzOiJjb25kaXRpb25leHByIjtzOjA6IiI7czoxNDoiY29uZGl0aW9uZXhwcjEiO047czoxNDoiY29uZGl0aW9uZXhwcjIiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[pdf,xls]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051726"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Timespent]]></subpagepattern>
+<defaultregion><![CDATA[center-first]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1571734638]]></timecreated>
+<timemodified><![CDATA[1571734638]]></timemodified>
+<title><![CDATA[Content Page Average TimeSpent]]></title>
+<reportcontenttype><![CDATA[table]]></reportcontenttype>
+<reporttype><![CDATA[]]></reporttype>
+<logo><![CDATA[]]></logo>
+<tilescolourpicker><![CDATA[12445F]]></tilescolourpicker>
+<disableheader><![CDATA[0]]></disableheader>
+<tilescolour><![CDATA[]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051726"></position></report>

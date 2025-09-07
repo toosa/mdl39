@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051739"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Average time spent on LMS]]></name>
+<summary><![CDATA[<p>The average time-spent on the system by students/teachers since the time of LearnerScript installation. The average time-spent on LMS by the admin will have ‘Zero’.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoyNToiQXZlcmFnZSt0aW1lK3NwZW50K29uK0xNUyI7czo0OiJ0eXBlIjtzOjEwOiJzdGF0aXN0aWNzIjtzOjg6InF1ZXJ5c3FsIjtzOjQ0MDoiU0VMRUNUK0lGJTI4QVZHJTI4YmxjLnRpbWVzcGVudCUyOStJUytOVUxMJTJDKzAlMkMrUk9VTkQlMjhBVkclMjhibGMudGltZXNwZW50JTI5JTI5JTI5KytBUyslMjJUaW1lc3BlbnQlMjIlMEQlMEFGUk9NK3ByZWZpeF9ibG9ja19sc19jb3Vyc2V0aW1lc3RhdHMrYmxjJTBEJTBBSk9JTitwcmVmaXhfcm9sZV9hc3NpZ25tZW50cytBUytyYStvbityYS51c2VyaWQrJTNEK2JsYy51c2VyaWQlMEQlMEFKT0lOK3ByZWZpeF9yb2xlK3IrT04rci5pZCslM0QrcmEucm9sZWlkKyUwRCUwQVdIRVJFK2JsYy51c2VyaWQrJTNEKyUyNSUyNVVTRVJJRCUyNSUyNSslMjUlMjVEQVNIQk9BUkRST0xFJTNBci5zaG9ydG5hbWUlMjUlMjUrJTBEJTBBQU5EK2JsYy50aW1lbW9kaWZpZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUiO3M6Nzoic3VtbWFyeSI7czoxOTk6IiUzQ3AlM0VUaGUrYXZlcmFnZSt0aW1lLXNwZW50K29uK3RoZStzeXN0ZW0rYnkrc3R1ZGVudHMlMkZ0ZWFjaGVycytzaW5jZSt0aGUrdGltZStvZitMZWFybmVyU2NyaXB0K2luc3RhbGxhdGlvbi4rVGhlK2F2ZXJhZ2UrdGltZS1zcGVudCtvbitMTVMrYnkrdGhlK2FkbWluK3dpbGwraGF2ZSslRTIlODAlOThaZXJvJUUyJTgwJTk5LiUzQyUyRnAlM0UiO3M6NjoiZ2xvYmFsIjtzOjE6IjEiO3M6MjoiaWQiO2k6MTI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MzU6Im1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjtpOjA7czoxMjoic3VibWl0YnV0dG9uIjtzOjQ6Ik5leHQiO3M6MTI6ImRpc2FibGV0YWJsZSI7aTowO319czoxMToicGVybWlzc2lvbnMiO2E6Mjp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjM6e3M6MTM6ImNvbmRpdGlvbmV4cHIiO3M6MTQ6IiUyOGMxK29yK2MyJTI5IjtzOjE0OiJjb25kaXRpb25leHByMSI7czowOiIiO3M6MTQ6ImNvbmRpdGlvbmV4cHIyIjtzOjE0OiIlMjhjMStvcitjMiUyOSI7fXM6ODoiZWxlbWVudHMiO2E6Mjp7aTowO2E6NTp7czoyOiJpZCI7czoxNToic1RIWjhRM1VTVkZQQ21jIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjEyOiJjb250ZXh0bGV2ZWwiO3M6MjoiNTAiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO3M6Njoicm9sZWlkIjtzOjE6IjUiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJyb2xlaW5jb3Vyc2UiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjMxOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIjtzOjc6InN1bW1hcnkiO3M6MjM6InN0dWRlbnQrYXQrQ291cnNlK2xldmVsIjt9aToxO2E6NTp7czoyOiJpZCI7czoxNToiOTNsNXRYS1p2QU00WmFzIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjEyOiJjb250ZXh0bGV2ZWwiO3M6MjoiNTAiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO3M6Njoicm9sZWlkIjtzOjE6IjMiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJyb2xlaW5jb3Vyc2UiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjMxOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIjtzOjc6InN1bW1hcnkiO3M6MzA6ImVkaXRpbmd0ZWFjaGVyK2F0K0NvdXJzZStsZXZlbCI7fX19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051739"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-student]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[-2]]></defaultweight>
+<timecreated><![CDATA[1583995648]]></timecreated>
+<timemodified><![CDATA[1583995648]]></timemodified>
+<title><![CDATA[Average timespent]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[47878179]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051739"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard-student]]></pagetype>
+<subpage><![CDATA[Dashboard]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-third]]></region>
+<weight><![CDATA[-2]]></weight>
+</position><instance version="2018051739"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-editingteacher]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-third]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1583995649]]></timecreated>
+<timemodified><![CDATA[1583995649]]></timemodified>
+<title><![CDATA[Average timespent]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[721934929]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051739"></position><instance version="2018051739"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-editingteacher_50]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-third]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1583995649]]></timecreated>
+<timemodified><![CDATA[1583995649]]></timemodified>
+<title><![CDATA[Average time spent on LMS]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[603205782]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051739"></position><instance version="2018051739"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-student_50]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[-2]]></defaultweight>
+<timecreated><![CDATA[1583995649]]></timecreated>
+<timemodified><![CDATA[1583995649]]></timemodified>
+<title><![CDATA[Average time spent on LMS]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[739917685]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051739"></position></report>

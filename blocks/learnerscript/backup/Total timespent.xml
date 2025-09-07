@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051739"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Total timespent]]></name>
+<summary><![CDATA[<p>The amount of time-spent on the LMS by learners &amp; teachers. For the admin, the time-spent will be displayed as ‘ZERO’.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxNToiVG90YWwrdGltZXNwZW50IjtzOjQ6InR5cGUiO3M6MTA6InN0YXRpc3RpY3MiO3M6ODoicXVlcnlzcWwiO3M6NDQwOiJTRUxFQ1QrSUYlMjhTVU0lMjhibGMudGltZXNwZW50JTI5K0lTK05VTEwlMkMrMCUyQytST1VORCUyOFNVTSUyOGJsYy50aW1lc3BlbnQlMjklMjklMjkrK0FTKyUyMlRpbWVzcGVudCUyMiUwRCUwQUZST00rcHJlZml4X2Jsb2NrX2xzX2NvdXJzZXRpbWVzdGF0cytibGMlMEQlMEFKT0lOK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzK0FTK3JhK29uK3JhLnVzZXJpZCslM0QrYmxjLnVzZXJpZCUwRCUwQUpPSU4rcHJlZml4X3JvbGUrcitPTityLmlkKyUzRCtyYS5yb2xlaWQrJTBEJTBBV0hFUkUrYmxjLnVzZXJpZCslM0QrJTI1JTI1VVNFUklEJTI1JTI1KyUyNSUyNURBU0hCT0FSRFJPTEUlM0FyLnNob3J0bmFtZSUyNSUyNSslMEQlMEFBTkQrYmxjLnRpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSI7czo3OiJzdW1tYXJ5IjtzOjE2MToiJTNDcCUzRVRoZSthbW91bnQrb2YrdGltZS1zcGVudCtvbit0aGUrTE1TK2J5K2xlYXJuZXJzKyUyNmFtcCUzQit0ZWFjaGVycy4rRm9yK3RoZSthZG1pbiUyQyt0aGUrdGltZS1zcGVudCt3aWxsK2JlK2Rpc3BsYXllZCthcyslRTIlODAlOThaRVJPJUUyJTgwJTk5LiUzQyUyRnAlM0UiO3M6NjoiZ2xvYmFsIjtzOjE6IjEiO3M6MjoiaWQiO2k6NzY7czo4OiJjb3Vyc2VpZCI7aToxO3M6MzU6Im1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjtpOjA7czoxMjoic3VibWl0YnV0dG9uIjtzOjQ6Ik5leHQiO3M6MTI6ImRpc2FibGV0YWJsZSI7aTowO319czoxMToicGVybWlzc2lvbnMiO2E6Mjp7czo2OiJjb25maWciO086ODoic3RkQ2xhc3MiOjM6e3M6MTM6ImNvbmRpdGlvbmV4cHIiO3M6MTQ6IiUyOGMxK29yK2MyJTI5IjtzOjE0OiJjb25kaXRpb25leHByMSI7czowOiIiO3M6MTQ6ImNvbmRpdGlvbmV4cHIyIjtzOjE0OiIlMjhjMStvcitjMiUyOSI7fXM6ODoiZWxlbWVudHMiO2E6Mjp7aTowO2E6NTp7czoyOiJpZCI7czoxNToiYW1HeDRvRVJBcVBvWUJ6IjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjEyOiJjb250ZXh0bGV2ZWwiO3M6MjoiNTAiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO3M6Njoicm9sZWlkIjtzOjE6IjUiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJyb2xlaW5jb3Vyc2UiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjMxOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIjtzOjc6InN1bW1hcnkiO3M6MjM6InN0dWRlbnQrYXQrQ291cnNlK2xldmVsIjt9aToxO2E6NTp7czoyOiJpZCI7czoxNToiQUdiYkNCbExKcWtEWXFMIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjEyOiJjb250ZXh0bGV2ZWwiO3M6MjoiNTAiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO3M6Njoicm9sZWlkIjtzOjE6IjMiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJyb2xlaW5jb3Vyc2UiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjMxOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIjtzOjc6InN1bW1hcnkiO3M6MzA6ImVkaXRpbmd0ZWFjaGVyK2F0K0NvdXJzZStsZXZlbCI7fX19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051739"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-student]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1583995707]]></timecreated>
+<timemodified><![CDATA[1583995707]]></timemodified>
+<title><![CDATA[Total Timespent]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[843631745]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[border]]></tileformat>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051739"></position><instance version="2018051739"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-student_50]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1583995707]]></timecreated>
+<timemodified><![CDATA[1583995707]]></timemodified>
+<title><![CDATA[Total timespent]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[872792196]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[border]]></tileformat>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051739"></position></report>

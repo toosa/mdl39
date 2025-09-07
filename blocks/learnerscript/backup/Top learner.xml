@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Top learner]]></name>
+<summary><![CDATA[<p>The learner who spent more time to learn something on your LMS.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxMToiVG9wK2xlYXJuZXIiO3M6NDoidHlwZSI7czoxMDoic3RhdGlzdGljcyI7czo4OiJxdWVyeXNxbCI7czozODk6IlNFTEVDVCthLmxlYXJuZXIrRlJPTSslMjhTRUxFQ1QrQ09OQ0FUJTI4dS5maXJzdG5hbWUlMkMrJTI3KyUyNyUyQyt1Lmxhc3RuYW1lJTI5K2FzK2xlYXJuZXIlMkMrU1VNJTI4bHRzLnRpbWVzcGVudCUyOSthcyt0aW1lc3BlbnQrRlJPTSslNjBwcmVmaXhfYmxvY2tfbHNfY291cnNldGltZXN0YXRzJTYwK2x0cytKT0lOKyU2MHByZWZpeF91c2VyJTYwK3UrT04rdS5pZCslM0QrbHRzLnVzZXJpZCslMEQlMEFXSEVSRSt1LmlkKyUzRSsyKytBTkQrbHRzLnRpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSUwRCUwQUdST1VQK0J5K3UuaWQrT1JERVIrQlkrdGltZXNwZW50K0RFU0MrTElNSVQrMSUyOStBUythIjtzOjc6InN1bW1hcnkiO2E6Mjp7czo0OiJ0ZXh0IjtzOjA6IiI7czo2OiJmb3JtYXQiO3M6MToiMSI7fXM6NjoiZ2xvYmFsIjtzOjE6IjEiO3M6MjoiaWQiO2k6ODU7czo4OiJjb3Vyc2VpZCI7aToxO3M6MzU6Im1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjtpOjA7czoxMjoic3VibWl0YnV0dG9uIjtzOjQ6Ik5leHQiO3M6MTI6ImRpc2FibGV0YWJsZSI7aTowO319fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Timespent]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1581072887]]></timecreated>
+<timemodified><![CDATA[1581072887]]></timemodified>
+<title><![CDATA[Top Learner]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[319423739]]></logo>
+<tilescolourpicker><![CDATA[C1403D]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Timespent]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-second]]></region>
+<weight><![CDATA[0]]></weight>
+</position></report>

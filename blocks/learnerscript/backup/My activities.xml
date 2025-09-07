@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[My activities]]></name>
+<summary><![CDATA[<p><strong>Activities:</strong>&nbsp;The number of activities available to you from the courses you enrolled to as a student/learner, within a timeline.</p><p><strong>Completions:</strong>&nbsp;The number of activities you completed as a student from the courses you enrolled to, within a timeline.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YTozOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxMzoiTXkrYWN0aXZpdGllcyI7czo0OiJ0eXBlIjtzOjEwOiJzdGF0aXN0aWNzIjtzOjg6InF1ZXJ5c3FsIjtzOjEzNzU6IlNFTEVDVCtjb3VudCUyOGRpc3RpbmN0K2NtLmlkJTI5K0FTK0FjdGl2aXRpZXMlMkMlMjhzZWxlY3QrY291bnQlMjhjYy5jb3Vyc2Vtb2R1bGVpZCUyOStGUk9NK3ByZWZpeF9jb3Vyc2VfbW9kdWxlc19jb21wbGV0aW9uK0FTK2NjKyUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZV9tb2R1bGVzK0FTK2NtbytPTitjYy5jb3Vyc2Vtb2R1bGVpZCslM0QrY21vLmlkKyUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStBUytjK09OK2MuaWQrJTNEK2Ntby5jb3Vyc2UrKyUwRCUwQUpPSU4rcHJlZml4X2Vucm9sK0FTK2UrT04rZS5jb3Vyc2VpZCslM0QrYy5pZCUwRCUwQUpPSU4rcHJlZml4X3VzZXJfZW5yb2xtZW50cytBUyt1ZSsrT04rY2MudXNlcmlkKyUzRCt1ZS51c2VyaWQrQU5EK3VlLmVucm9saWQrJTNEK2UuaWQrV0hFUkUrK2MudmlzaWJsZSslM0QrMStBTkQrY2MudXNlcmlkKyUzRCUyNSUyNVVTRVJJRCUyNSUyNStBTkQrY2MuY29tcGxldGlvbnN0YXRlKyUzRSswK0FORCtjbW8udmlzaWJsZSslM0QrMSslMjUlMjVGSUxURVJfQ09VUlNFUyUzQWMuaWQlMjUlMjUrQU5EK2NjLnRpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSslMjkrQVMrQ29tcGxldGlvbnMrKysrKysrKysrKysrKysrKysrKysrKyUwRCUwQUZST00rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrcmErJTBEJTBBSk9JTitwcmVmaXhfdXNlcit1K09OK3UuaWQrJTNEK3JhLnVzZXJpZCUwRCUwQUpPSU4rcHJlZml4X3JvbGUrcitPTityLmlkKyUzRCtyYS5yb2xlaWQlMEQlMEFKT0lOK3ByZWZpeF9jb250ZXh0K2N4dCtPTitjeHQuaWQrJTNEK3JhLmNvbnRleHRpZCUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStjK09OK2MuaWQrJTNEK2N4dC5pbnN0YW5jZWlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlX21vZHVsZXMrY20rT04rY20uY291cnNlKyUzRCtjLmlkJTBEJTBBV0hFUkUrcmEudXNlcmlkKyUzRCt1LmlkKytBTkQrYy52aXNpYmxlKyUzRDErK0FORCtjbS52aXNpYmxlKyUzRCsxK0FORCtjbS5kZWxldGlvbmlucHJvZ3Jlc3MrJTNEMCsrKysrKysrKysrKysrKysrKysrJTBEJTBBQU5EK3JhLmNvbnRleHRpZCslM0QrY3h0LmlkKyUwRCUwQUFORCtjeHQuY29udGV4dGxldmVsKyUzRDUwJTBEJTBBQU5EK2N4dC5pbnN0YW5jZWlkKyUzRCtjLmlkJTBEJTBBQU5EKytyLnNob3J0bmFtZSslM0QrJTI3c3R1ZGVudCUyNytBTkQrdS5pZCslM0QrJTI1JTI1VVNFUklEJTI1JTI1KyUyNSUyNUZJTFRFUl9DT1VSU0VTJTNBYy5pZCUyNSUyNSUwRCUwQUFORCtyYS50aW1lbW9kaWZpZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUiO3M6Nzoic3VtbWFyeSI7YToyOntzOjQ6InRleHQiO3M6MDoiIjtzOjY6ImZvcm1hdCI7czoxOiIxIjt9czo2OiJnbG9iYWwiO3M6MToiMSI7czoyOiJpZCI7aTo0ODtzOjg6ImNvdXJzZWlkIjtpOjE7czozNToibWZvcm1faXNleHBhbmRlZF9pZF9hZHZhbmNlZG9wdGlvbnMiO2k6MDtzOjEyOiJzdWJtaXRidXR0b24iO3M6NDoiTmV4dCI7czoxMjoiZGlzYWJsZXRhYmxlIjtpOjA7fX1zOjEwOiJjb25kaXRpb25zIjthOjI6e3M6ODoiZWxlbWVudHMiO2E6MDp7fXM6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjoyOntzOjEzOiJjb25kaXRpb25leHByIjtzOjA6IiI7czoxMjoic3VibWl0YnV0dG9uIjtzOjY6IlVwZGF0ZSI7fX1zOjExOiJwZXJtaXNzaW9ucyI7YToyOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Mzp7czoxMzoiY29uZGl0aW9uZXhwciI7czo4OiIlMjhjMSUyOSI7czoxNDoiY29uZGl0aW9uZXhwcjEiO3M6MDoiIjtzOjE0OiJjb25kaXRpb25leHByMiI7czo4OiIlMjhjMSUyOSI7fXM6ODoiZWxlbWVudHMiO2E6MTp7aTowO2E6NTp7czoyOiJpZCI7czoxNToiam5COFdFbDZSZm1jWW9hIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjozOntzOjEyOiJjb250ZXh0bGV2ZWwiO3M6MjoiNTAiO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czozOiJBZGQiO3M6Njoicm9sZWlkIjtzOjE6IjUiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjEyOiJyb2xlaW5jb3Vyc2UiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjMxOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIjtzOjc6InN1bW1hcnkiO3M6MjM6InN0dWRlbnQrYXQrQ291cnNlK2xldmVsIjt9fX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-student]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1582784201]]></timecreated>
+<timemodified><![CDATA[1582784201]]></timemodified>
+<title><![CDATA[My Activities]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[225700233]]></logo>
+<tilescolourpicker><![CDATA[03353E]]></tilescolourpicker>
+<tileformat><![CDATA[border]]></tileformat>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard-student]]></pagetype>
+<subpage><![CDATA[Dashboard]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-second]]></region>
+<weight><![CDATA[1]]></weight>
+</position><instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[1]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-student_50]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-second]]></defaultregion>
+<defaultweight><![CDATA[4]]></defaultweight>
+<timecreated><![CDATA[1582785028]]></timecreated>
+<timemodified><![CDATA[1582785533]]></timemodified>
+<title><![CDATA[My activities]]></title>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[649555323]]></logo>
+<contextlevel><![CDATA[50]]></contextlevel>
+<tileformat><![CDATA[border]]></tileformat>
+<tilescolourpicker><![CDATA[03353E]]></tilescolourpicker>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"></position></report>

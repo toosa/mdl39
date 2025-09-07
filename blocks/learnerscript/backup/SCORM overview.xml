@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[SCORM overview]]></name>
+<summary><![CDATA[<p><strong>Total:</strong>&nbsp;The total number of Scorms created from the all courses on your system, within a timeline.</p><p><strong>Active:&nbsp;</strong>The number of Scorms available (active/inactive status) from all the courses for learners, within a timeline.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxNDoiU0NPUk0rb3ZlcnZpZXciO3M6NDoidHlwZSI7czoxMDoic3RhdGlzdGljcyI7czo4OiJxdWVyeXNxbCI7czoxMDk1OiJTRUxFQ1QrQ09VTlQlMjhESVNUSU5DVCtzYy5pZCUyOSthcytUb3RhbCUyQyslMjhTRUxFQ1QrQ09VTlQlMjhESVNUSU5DVCtzYy5pZCUyOStGUk9NK3ByZWZpeF9zY29ybSthcytzYyslMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2VfbW9kdWxlcythcytjbStPTitjbS5pbnN0YW5jZSslM0Qrc2MuaWQrJTBEJTBBSk9JTitwcmVmaXhfbW9kdWxlcythcyttK09OK2NtLm1vZHVsZSslM0QrbS5pZCtBTkQrbS5uYW1lJTNEJTI3c2Nvcm0lMjclMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrYytPTitjLmlkKyUzRCtjbS5jb3Vyc2UlMEQlMEErSk9JTitwcmVmaXhfZ3JhZGVfaXRlbXMrZ2krT04rZ2kuaXRlbWluc3RhbmNlKyUzRCtjbS5pbnN0YW5jZStBTkQrZ2kuaXRlbXR5cGUrJTNEKyUyN21vZCUyNyslMEQlMEErQU5EK2dpLml0ZW1tb2R1bGUrJTNEKyUyN3Njb3JtJTI3JTBEJTBBV0hFUkUrYy52aXNpYmxlKyUzRCsxK0FORCtjbS52aXNpYmxlKyUzRCsxKyUyNSUyNUZJTFRFUl9DT1VSU0VTJTNBYy5pZCUyNSUyNStBTkQrY20uYWRkZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUlMjkrYXMrQWN0aXZlJTBEJTBBRlJPTStwcmVmaXhfc2Nvcm0rYXMrc2MrJTBEJTBBSk9JTitwcmVmaXhfY291cnNlX21vZHVsZXMrYXMrY20rT04rY20uaW5zdGFuY2UrJTNEK3NjLmlkKyUwRCUwQUpPSU4rcHJlZml4X21vZHVsZXMrYXMrbStPTitjbS5tb2R1bGUrJTNEK20uaWQrQU5EK20ubmFtZSUzRCUyN3Njb3JtJTI3JTBEJTBBSk9JTitwcmVmaXhfY291cnNlK2MrT04rYy5pZCslM0QrY20uY291cnNlJTBEJTBBK0pPSU4rcHJlZml4X2dyYWRlX2l0ZW1zK2dpK09OK2dpLml0ZW1pbnN0YW5jZSslM0QrY20uaW5zdGFuY2UrQU5EK2dpLml0ZW10eXBlKyUzRCslMjdtb2QlMjcrJTBEJTBBK0FORCtnaS5pdGVtbW9kdWxlKyUzRCslMjdzY29ybSUyNyUwRCUwQVdIRVJFK2MudmlzaWJsZSslM0QrMSsrJTI1JTI1RklMVEVSX0NPVVJTRVMlM0FjLmlkJTI1JTI1K0FORCtjbS5hZGRlZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSsiO3M6Nzoic3VtbWFyeSI7YToyOntzOjQ6InRleHQiO3M6MDoiIjtzOjY6ImZvcm1hdCI7czoxOiIxIjt9czo2OiJnbG9iYWwiO3M6MToiMSI7czoyOiJpZCI7aTo3NDtzOjg6ImNvdXJzZWlkIjtpOjE7czozNToibWZvcm1faXNleHBhbmRlZF9pZF9hZHZhbmNlZG9wdGlvbnMiO2k6MDtzOjEyOiJzdWJtaXRidXR0b24iO3M6NDoiTmV4dCI7czoxMjoiZGlzYWJsZXRhYmxlIjtpOjA7fX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Course]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[-1]]></defaultweight>
+<timecreated><![CDATA[1581072881]]></timecreated>
+<timemodified><![CDATA[1581072881]]></timemodified>
+<title><![CDATA[Scorms Overview]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[295138201]]></logo>
+<tilescolourpicker><![CDATA[04060F]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"></position></report>

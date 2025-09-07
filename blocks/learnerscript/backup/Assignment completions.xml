@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Assignment completions]]></name>
+<summary><![CDATA[<p>The number of assignments completed by the learners from all the courses, within a timeline.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoyMjoiQXNzaWdubWVudCtjb21wbGV0aW9ucyI7czo0OiJ0eXBlIjtzOjEwOiJzdGF0aXN0aWNzIjtzOjg6InF1ZXJ5c3FsIjtzOjg0NToiU0VMRUNUKytjb3VudCUyOGNtbS5pZCUyOSsrQVMrJTIyQ29tcGxldGVkK3VzZXJzJTIyKyslMEQlMEErKytGUk9NK3ByZWZpeF9jb3Vyc2VfbW9kdWxlc19jb21wbGV0aW9uK0FTK2NtbSslMEQlMEErKytKT0lOK3ByZWZpeF9jb3Vyc2VfbW9kdWxlcytBUytjbSsrT04rY21tLmNvdXJzZW1vZHVsZWlkKyUzRGNtLmlkKyUwRCUwQSsrK0pPSU4rcHJlZml4X2NvdXJzZStBUytjK09OK2MuaWQlM0RjbS5jb3Vyc2UlMEQlMEErKytKT0lOK3ByZWZpeF9lbnJvbCtBUytlK09OK2UuY291cnNlaWQrJTNEK2MuaWQrQU5EK2Uuc3RhdHVzKyUzRCswJTBEJTBBKysrSk9JTitwcmVmaXhfdXNlcl9lbnJvbG1lbnRzK0FTK3VlK09OK3VlLmVucm9saWQrJTNEK2UuaWQrQU5EK3VlLnN0YXR1cyslM0QrMCUwRCUwQSsrK0pPSU4rcHJlZml4X21vZHVsZXMrQVMrbStPTittLmlkKyUzRCtjbS5tb2R1bGUrJTBEJTBBKysrSk9JTitwcmVmaXhfdXNlcitBUyt1K09uK3UuaWQrJTNEK2NtbS51c2VyaWQrQU5EK3VlLnVzZXJpZCslM0QrdS5pZCUwRCUwQSsrK1dIRVJFK2NtbS5jb21wbGV0aW9uc3RhdGUrJTNFMCtBTkQrbS5uYW1lJTNEJTI3YXNzaWduJTI3KytBTkQrY20uZGVsZXRpb25pbnByb2dyZXNzKyUzRDArQU5EK2NtLnZpc2libGUrJTNEMStBTkQrYy52aXNpYmxlKyUzRCsxK0FORCt1LmRlbGV0ZWQrJTNEKzArQU5EK3UuY29uZmlybWVkKyUzRCsxKytBTkQrY21tLnVzZXJpZCslM0UrMislMjUlMjVGSUxURVJfQ09VUlNFUyUzQWMuaWQlMjUlMjUrQU5EK2NtbS50aW1lbW9kaWZpZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUlMEQlMEEiO3M6Nzoic3VtbWFyeSI7czowOiIiO3M6NjoiZ2xvYmFsIjtzOjE6IjEiO3M6MjoiaWQiO2k6NTtzOjg6ImNvdXJzZWlkIjtpOjE7czozNToibWZvcm1faXNleHBhbmRlZF9pZF9hZHZhbmNlZG9wdGlvbnMiO2k6MDtzOjEyOiJzdWJtaXRidXR0b24iO3M6NDoiTmV4dCI7czoxMjoiZGlzYWJsZXRhYmxlIjtpOjA7fX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[45]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Course]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1581072708]]></timecreated>
+<timemodified><![CDATA[1581072708]]></timemodified>
+<title><![CDATA[Assignment Completions]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[471441218]]></logo>
+<tilescolourpicker><![CDATA[0294A5]]></tilescolourpicker>
+<tileformat><![CDATA[border]]></tileformat>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"></position></report>

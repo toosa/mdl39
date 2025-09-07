@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Trending resource]]></name>
+<summary><![CDATA[<p>The resource which has a great number of hits/access time.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxNzoiVHJlbmRpbmcrcmVzb3VyY2UiO3M6NDoidHlwZSI7czoxMDoic3RhdGlzdGljcyI7czo4OiJxdWVyeXNxbCI7czoxMjkxOiJTRUxFQ1QrdC5hY3Rpdml0eStBUytBY3Rpdml0eStGUk9NKyUyOFNFTEVDVCsrJTBEJTBBQ09OQ0FUJTI4KyUwRCUwQUNPQUxFU0NFJTI4Yi5uYW1lJTJDJTI3JTI3JTI5JTJDKyUwRCUwQUNPQUxFU0NFJTI4Zm9sZGVyLm5hbWUlMkMlMjclMjclMjklMkMrJTBEJTBBQ09BTEVTQ0UlMjhpbXNjcC5uYW1lJTJDJTI3JTI3JTI5JTJDKyUwRCUwQUNPQUxFU0NFJTI4cC5uYW1lJTJDJTI3JTI3JTI5JTJDJTBEJTBBQ09BTEVTQ0UlMjh1cmwubmFtZSUyQyUyNyUyNyUyOSUyOSthY3Rpdml0eSUyQytTRUNfVE9fVElNRSUyOFNVTSUyOGxzdC50aW1lc3BlbnQlMjklMjkrYXMrJTI3bWF4dGltZXNwZW50JTI3JTJDK1NVTSUyOGxzdC50aW1lc3BlbnQlMjkrYXMrdGltZXNwZW50JTJDJTBEJTBBY20uaWQrYXMrYWN0aXZpdHlpZCUwRCUwQUZST00rcHJlZml4X2NvdXJzZV9tb2R1bGVzK0FTK2NtKyUwRCUwQUpPSU4rcHJlZml4X2Jsb2NrX2xzX21vZHRpbWVzdGF0cytBUytsc3QrT04rY20uaWQrJTNEK2xzdC5hY3Rpdml0eWlkJTBEJTBBSk9JTitwcmVmaXhfbW9kdWxlcytBUyttK09OK20uaWQrJTNEK2NtLm1vZHVsZSUwRCUwQUxFRlQrSk9JTitwcmVmaXhfYm9vaytBUytiK09OK2IuaWQrJTNEK2NtLmluc3RhbmNlK0FORCttLm5hbWUrJTNEKyUyN2Jvb2slMjclMEQlMEFMRUZUK0pPSU4rcHJlZml4X2ZvbGRlcitBUytmb2xkZXIrT04rZm9sZGVyLmlkKyUzRCtjbS5pbnN0YW5jZStBTkQrbS5uYW1lKyUzRCslMjdmb2xkZXIlMjclMEQlMEFMRUZUK0pPSU4rcHJlZml4X2ltc2NwK0FTK2ltc2NwK09OK2ltc2NwLmlkKyUzRCtjbS5pbnN0YW5jZStBTkQrbS5uYW1lKyUzRCslMjdpbXNjcCUyNyUwRCUwQUxFRlQrSk9JTitwcmVmaXhfcGFnZStBUytwK09OK3AuaWQrJTNEK2NtLmluc3RhbmNlK0FORCttLm5hbWUrJTNEKyUyN3BhZ2UlMjclMEQlMEFMRUZUK0pPSU4rcHJlZml4X3VybCtBUyt1cmwrT04rdXJsLmlkKyUzRCtjbS5pbnN0YW5jZStBTkQrbS5uYW1lKyUzRCslMjd1cmwlMjclMEQlMEFXSEVSRSttLm5hbWUrSU4rJTI4JTI3Ym9vayUyNyUyQyslMjdmb2xkZXIlMjclMkMrJTI3aW1zY3AlMjclMkMrJTI3cGFnZSUyNyUyQyslMjd1cmwlMjclMjkrQU5EK2NtLmRlbGV0aW9uaW5wcm9ncmVzcyslM0QrMCUwRCUwQUFORCtsc3QudGltZW1vZGlmaWVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1JTBEJTBBR1JPVVArQlkrbHN0LmFjdGl2aXR5aWQrT1JERVIrQlkrdGltZXNwZW50K0RFU0MrTElNSVQrMSUyOSthcyt0IjtzOjc6InN1bW1hcnkiO2E6Mjp7czo0OiJ0ZXh0IjtzOjA6IiI7czo2OiJmb3JtYXQiO3M6MToiMSI7fXM6NjoiZ2xvYmFsIjtzOjE6IjEiO3M6MjoiaWQiO2k6OTc7czo4OiJjb3Vyc2VpZCI7aToxO3M6MzU6Im1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjtpOjA7czoxMjoic3VibWl0YnV0dG9uIjtzOjQ6Ik5leHQiO3M6MTI6ImRpc2FibGV0YWJsZSI7aTowO319fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Timespent]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1581072897]]></timecreated>
+<timemodified><![CDATA[1581072897]]></timemodified>
+<title><![CDATA[Trending Resource]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[141545754]]></logo>
+<tilescolourpicker><![CDATA[03353E]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Timespent]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-four]]></region>
+<weight><![CDATA[0]]></weight>
+</position></report>

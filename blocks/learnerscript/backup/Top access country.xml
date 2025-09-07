@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2018051738"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Top access country]]></name>
+<summary><![CDATA[<p><strong>Country:&nbsp;</strong>The country from which you get a greater number of visits to your LMS site, within a timeline.</p><p><strong>Total:</strong>&nbsp;The total number of accesses corresponding to the country (the top access location), within a timeline.</p>]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTA6e3M6NDoibmFtZSI7czoxODoiVG9wK2FjY2Vzcytjb3VudHJ5IjtzOjQ6InR5cGUiO3M6MTA6InN0YXRpc3RpY3MiO3M6ODoicXVlcnlzcWwiO3M6NDAxOiJTRUxFQ1QrSUYlMjhjb3VudHJ5JTNEJTI3JTI3JTJDKyUyN090aGVyJTI3JTJDK2NvdW50cnklMjkrQVMrY291bnRyeSUyQytDT1VOVCUyOERJU1RJTkNUK3VzZXJpZCUyOSthcyt0b3RhbCtGUk9NK3ByZWZpeF9ibG9ja19kZXZpY2VscytXSEVSRSsxKyUzRCsxJTBEJTBBQU5EK3RpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNStBTkQrY291bnRyeStMSUtFKyUyOFNFTEVDVCtjb3VudHJ5K0ZST00rcHJlZml4X2Jsb2NrX2RldmljZWxzK2JkK0dST1VQK0JZK3VzZXJpZCtPUkRFUitCWStDT1VOVCUyOHVzZXJpZCUyOStBU0MrTElNSVQrMSUyOStHUk9VUCtCWStjb3VudHJ5K09SREVSK0JZK0NPVU5UJTI4dXNlcmlkJTI5K0FTQyI7czo3OiJzdW1tYXJ5IjtzOjA6IiI7czo2OiJnbG9iYWwiO3M6MToiMSI7czoyOiJpZCI7aTo3MDtzOjg6ImNvdXJzZWlkIjtpOjE7czozNToibWZvcm1faXNleHBhbmRlZF9pZF9hZHZhbmNlZG9wdGlvbnMiO2k6MDtzOjEyOiJzdWJtaXRidXR0b24iO3M6NDoiTmV4dCI7czoxMjoiZGlzYWJsZXRhYmxlIjtpOjA7fX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[3]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2018051738"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Geographical]]></subpagepattern>
+<defaultregion><![CDATA[side-db-third]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1581072886]]></timecreated>
+<timemodified><![CDATA[1581072886]]></timemodified>
+<title><![CDATA[Top Access Location]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[794845286]]></logo>
+<tilescolourpicker><![CDATA[04060F]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2018051738"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Geographical]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-third]]></region>
+<weight><![CDATA[0]]></weight>
+</position></report>
