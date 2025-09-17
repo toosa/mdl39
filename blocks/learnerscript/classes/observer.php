@@ -36,8 +36,8 @@ class block_learnerscript_observer {
             $browscap = new block_learnerscript_browscap($CFG->dataroot . '/cache/');
             $browscap->doAutoUpdate = false;
             $info = $browscap->getBrowser();
-            $ipdata =  file_get_contents('https://ipinfo.io/'.$_SERVER['REMOTE_ADDR'].'');
-            $ipinfo = json_decode($ipdata, true);
+            # $ipdata =  file_get_contents('https://ipinfo.io/'.$_SERVER['REMOTE_ADDR'].'');
+            # $ipinfo = json_decode($ipdata, true);
             $accessip = isset($_SERVER['REMOTE_ADDR']) ? $_SERVER['REMOTE_ADDR'] : '';
             $ipinfocountrycode = isset($ipinfo['country']) ? $ipinfo['country'] : '';
             $infobrowser = isset($info->Browser) ? $info->Browser : '';
